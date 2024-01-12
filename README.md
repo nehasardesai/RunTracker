@@ -1,3 +1,5 @@
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nehasardesai/RunTracker&file=RunTracker.mlx)
+
 # RunTracker
 This repository contains MATLAB code to build a run tracker from data collected on your phone sensors.  
 # Background story
